@@ -1,9 +1,9 @@
 title: Researcher
 url: "https://hibb-bb.github.io/"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+  # ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
