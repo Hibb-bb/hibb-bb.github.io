@@ -1,9 +1,9 @@
 title: Dennis
-url: "https://hibb-bb.github.io"
-baseurl: "/researcher"
+url: "https://hibb-bb.github.io/"
+  # baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
