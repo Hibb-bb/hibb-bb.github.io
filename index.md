@@ -6,38 +6,18 @@ layout: default
 
 <img class="profile-picture" src="IMG_2092.jpeg">
 
-Hi! I am Dennis.
-
+Hi! I am Dennis. Currently, I am working as a research assistant at (Natural Language Processing and Sentiment Analysis Lab)[https://academiasinicanlplab.github.io/], Academia Sinica.
+I graduated from National Central University, with a Bachelor degree of Science in Computer Science.
 
 ## Research Interest
 
-ML.
+Machine learning theory, Natural language processing and Metric learning.
 
 ## Publications
 
-comming soon.
+**Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, *AI-based College Course Selection Recommendation System-Performance Prediction and Curriculum Suggestion*, IEEE-IS3C(2020), <span style="color:blue">**(Best Paper Award + Oral Presentation)**</span>.
+Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, *EasyIoT: Internet and Computational things for kids* Workshop of Mobile Computing(2018) <span style="color:blue">**(Oral Presentation)**</span>.
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+> :)
