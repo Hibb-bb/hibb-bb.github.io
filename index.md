@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="IMG_2092.jpeg">
 
 Hi! I am Dennis.<br>
-Currently, I am working as a research assistant at [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica. <br>
+Currently, I am currently working as a research assistant at [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica. <br>
 I graduated from National Central University, with a Bachelor degree of Science in Computer Science.
 
 ## Research Interest
