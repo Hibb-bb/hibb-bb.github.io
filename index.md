@@ -13,7 +13,7 @@ My research interests lie in machine learning, learning theory and natural langu
 ## Recent News
 
 * One paper was accepted by ICLR2022! 
-    <span style="color:blue">21 Jan 2022</span>
+    <span style="color:#FF0F00">21 Jan 2022</span>
 
 ## Publications
 > <span style="font-family: Georgia, serif; font-size:20px">EasyIoT: Internet and Computational things for kids</span>.<br>
