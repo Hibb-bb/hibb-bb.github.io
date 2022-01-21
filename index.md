@@ -13,15 +13,13 @@ My research interests lie in machine learning, learning theory and natural langu
 
 <span style="color:#FF0F00">21 Jan 2022</span>: One paper was accepted by ICLR2022! 
 
-<br> 
-
 ## Publications
 * <span style="font-family: Georgia, serif; font-size:16px">EasyIoT: Internet and Computational things for kids</span>.<br>
-  Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu.<br>
+  Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiaokuang Wu.<br>
   In *Workshop of Mobile Computing 2018* <span style="color:blue">**(Oral Presentation)**</span><br>
 
 * <span style="font-family: Georgia, serif; font-size:16px">AI-based College Course Selection Recommendation System-Performance Prediction and Curriculum Suggestion</span> <br>
-  **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu.<br>
+  **Yu-Hsuan Wu** and Eric Hsiaokuang Wu.<br>
   In *IEEE-IS3C 2020* <span style="color:blue">**(Best Paper Award + Oral Presentation)**</span>
 
 * <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>.<br>

@@ -9,4 +9,4 @@ is_contact: true
 
 ## Social
 
-1. [Twitter](https://twitter.com/hibb_bb)
+[Twitter](https://twitter.com/hibb_bb)
