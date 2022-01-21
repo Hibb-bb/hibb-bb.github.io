@@ -18,7 +18,7 @@
         margin: 5px 0 5px 0;
     }
     ul {
-        padding: 0 20px 0 20px;;
+        padding: 0 10px 0 10px;;
     }
     ol {
         padding: 0 10px 0 10px;
@@ -27,7 +27,7 @@
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
         position: absolute;
-        left: -30px;
+        left: -10px;
     }
     blockquote {
         //border: 1px solid black;
