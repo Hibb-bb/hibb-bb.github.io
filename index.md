@@ -16,9 +16,9 @@ Machine learning theory, Natural language processing and Metric learning.
 
 ## Publications
 
-* **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, *AI-based College Course Selection Recommendation System-Performance Prediction and Curriculum Suggestion*, IEEE-IS3C(2020), <span style="color:blue">**(Best Paper Award + Oral Presentation)**</span>. <br>
-* Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, *EasyIoT: Internet and Computational things for kids* Workshop of Mobile Computing(2018) <span style="color:blue">**(Oral Presentation)**</span>. <br>
-* **Yu-Hsuan Wu**, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen, *Associated Learning:A Methdology To De-compose End-To-End Backpropagation ON CNN,RNN,And Transformer*, ICLR(2022)(good shit). <br>
+* **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, <span style="font-family: Times">*AI-based College Course Selection Recommendation System-Performance Prediction and Curriculum Suggestion*</span>, IEEE-IS3C(2020), <span style="color:blue">**(Best Paper Award + Oral Presentation)**</span>. <br>
+* Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu, <span style="font-family: Times">*EasyIoT: Internet and Computational things for kids*</span>, Workshop of Mobile Computing(2018) <span style="color:blue">**(Oral Presentation)**</span>. <br>
+* **Yu-Hsuan Wu**, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen, <span style="font-family: Times">*Associated Learning: A Methdology To De-compose End-To-End Backpropagation ON CNN,RNN,And Transformer*</span>, ICLR(2022)(good shit). <br>
 
 ## Typography
 > :)
