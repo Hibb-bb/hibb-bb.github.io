@@ -1,4 +1,4 @@
-title: Dennis
+title: Dennis Yu-Hsuan Wu
 url: "https://hibb-bb.github.io/"
   # baseurl: "/researcher"
 
@@ -7,7 +7,7 @@ ins_logo: "./dogo.webp"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://hibb-bb.github.io/"
 footer_text: "Dennis"
 
