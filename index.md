@@ -16,7 +16,7 @@ My research interests lie in machine learning, learning theory and natural langu
     <span style="color:blue">21 Jan 2022</span>
 
 ## Publications
-> <span style="font-family: Georgia, serif; font-size:14px">EasyIoT: Internet and Computational things for kids</span>.<br>
+> <span style="font-family: Georgia, serif; font-size:20px">EasyIoT: Internet and Computational things for kids</span>.<br>
 >
 > * Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu. <br>
 > * *Workshop of Mobile Computing(2018)*, <span style="color:blue">**(Oral Presentation)**</span><br>
