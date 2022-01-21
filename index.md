@@ -36,14 +36,18 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Experience
 
-* B.S. on Computer Science, National Central University
+* B.S. on Computer Science, National Central University <br>
     Duration: 2017-2021
-* Undergraduate Research, National Central University,
+    <br>
+* Undergraduate Research, National Central University <br>
     Advisor: [Prof. Eric Hsiaokuang Wu](http://wmlab.csie.ncu.edu.tw/)
     Duration: 2017-2020
-* Undergraduate Research, National Central University,
+    <br>
+* Undergraduate Research, National Central University <br>
     Advisor: [Prof. Hung-Hsuan Chen](https://in.ncu.edu.tw/~hhchen/index.html)
     Duration: 2020-2022
-* Research Assistant, [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica.
+    <br>
+* Research Assistant, [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica <br>
     Advisor: [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/)
     Duration: 2020-2022
+    <br>
