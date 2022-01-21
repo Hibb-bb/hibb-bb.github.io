@@ -7,8 +7,9 @@ layout: default
 <img class="profile-picture" src="IMG_2092.jpeg">
 
 Hi! I am Dennis(Yu-Hsuan).<br>
-Currently, I am currently working as a research assistant at [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica. <br>
-I graduated from National Central University, with a Bachelor degree of Science in Computer Science.
+Currently, I am looking for a Master Degree in the US.
+Previously, I worked as a research assistant at [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica. <br>
+I graduated from National Central University, with a Bachelor degree of Science in Computer Science, and was very lucky to be advised by [Prof. Hung-Hsuan Chen](https://in.ncu.edu.tw/~hhchen/index.html).
 
 ## Research Interest
 
