@@ -16,7 +16,7 @@ I graduated from National Central University, with a Bachelor degree of Science 
 Machine learning theory, Natural language processing and Metric learning.
 
 ## Publications
-> <span style="font-family: Georgia, serif">EasyIoT: Internet and Computational things for kids</span>.<br>
+> <span style="font-family: Georgia, serif; font-size:10em">EasyIoT: Internet and Computational things for kids</span>.<br>
 >
 > * Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu. <br>
 > * *Workshop of Mobile Computing(2018)*, <span style="color:blue">**(Oral Presentation)**</span><br>
@@ -33,3 +33,17 @@ Machine learning theory, Natural language processing and Metric learning.
 
 ## Typography
 > :)
+
+## Experience
+
+* B.S. on Computer Science, National Central University
+    Duration: 2017-2021
+* Undergraduate Research, National Central University,
+    Advisor: [Prof. Eric Hsiaokuang Wu](http://wmlab.csie.ncu.edu.tw/)
+    Duration: 2017-2020
+* Undergraduate Research, National Central University,
+    Advisor: [Prof. Hung-Hsuan Chen](https://in.ncu.edu.tw/~hhchen/index.html)
+    Duration: 2020-2022
+* Research Assistant, [Natural Language Processing and Sentiment Analysis Lab](https://academiasinicanlplab.github.io/), Academia Sinica.
+    Advisor: [Prof. Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/)
+    Duration: 2020-2022
