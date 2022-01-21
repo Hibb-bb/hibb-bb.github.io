@@ -17,17 +17,14 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Publications
 > <span style="font-family: Georgia, serif; font-size:18px">EasyIoT: Internet and Computational things for kids</span>.<br>
->
 > * Hou-Shen Lin, **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu. <br>
 > * *Workshop of Mobile Computing(2018)*, <span style="color:blue">**(Oral Presentation)**</span><br>
 
 > <span style="font-family: Georgia, serif; font-size:18px">AI-based College Course Selection Recommendation System-Performance Prediction and Curriculum Suggestion</span> <br>
->
 > *  **Yu-Hsuan Wu** and Eric Hsiao-kuang Wu.<br>
 > * *IEEE-IS3C(2020)* <span style="color:blue">**(Best Paper Award + Oral Presentation)**.</span>
 
 > <span style="font-family: Georgia, serif; font-size:18px">Associated Learning: A Methodology To De-compose End-To-End Backpropagation ON CNN, RNN, And Transformer</span>.<br>
->
 > * **Yu-Hsuan Wu**, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen.<br>
 > * *ICLR(2022)*.
 
