@@ -28,7 +28,7 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Experience
 
-* B.S. on Computer Science, National Central University <br>
+* B.S. in Computer Science, National Central University <br>
     Duration: 2017-2021
     <br>
 * Undergraduate Research, National Central University <br>
