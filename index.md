@@ -11,6 +11,7 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Recent Updates
 
+<span style="color:#FF0F00">9 Feb 2022</span>: Starting to serve my military service. <br>
 <span style="color:#FF0F00">21 Jan 2022</span>: One paper was accepted by ICLR2022! 
 
 ## Publications
