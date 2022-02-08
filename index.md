@@ -16,7 +16,8 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Publications
 
-* <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>. [[PDF]](https://openreview.net/forum?id=4N-17dske79) [[CODE]](https://github.com/Hibb-bb/AL)<br>
+* <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>. <br>
+  [[PDF]](https://openreview.net/forum?id=4N-17dske79)[[CODE]](https://github.com/Hibb-bb/AL)<br>
   **Yu-Hsuan Wu\***, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen.<br>
   In *ICLR 2022*
 
