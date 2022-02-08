@@ -22,8 +22,8 @@ My research interests lie in machine learning, learning theory and natural langu
   **Yu-Hsuan Wu** and Eric Hsiaokuang Wu.<br>
   In *IEEE-IS3C 2020* <span style="color:blue">**(Best Paper Award + Oral Presentation)**</span>
 
-* <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>.<br>
-  **Yu-Hsuan Wu**, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen.<br>
+* <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>. [PDF](https://openreview.net/forum?id=4N-17dske79)<br>
+  **Yu-Hsuan Wu\***, Di-Nan Lin, Vincent Chen, Hung-Hsuan Chen.<br>
   In *ICLR 2022*
 
 ## Experience
