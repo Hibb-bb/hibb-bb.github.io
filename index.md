@@ -16,7 +16,7 @@ My research interests lie in machine learning, learning theory and natural langu
 
 ## Publications
 
-My [Google Scholar](https://scholar.google.com.tw/citations?user=rmm9zw0AAAAJ&hl=zh-TW)
+<span style="color:##FFC0CB">[My [Google Scholar](https://scholar.google.com.tw/citations?user=rmm9zw0AAAAJ&hl=zh-TW)]</span>
 
 * <span style="font-family: Georgia, serif; font-size:16px">Associated Learning: A Methodology To Decompose End-To-End Backpropagation On CNN, RNN, And Transformer</span>. <br>
   [[PDF]](https://openreview.net/forum?id=4N-17dske79) [[CODE]](https://github.com/Hibb-bb/AL)<br>
