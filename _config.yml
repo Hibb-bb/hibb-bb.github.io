@@ -3,7 +3,7 @@ url: "https://hibb-bb.github.io/"
   # baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "./dogo.webp"
+ins_logo: "./logo_nu.png"
 
 tracking_id: #
 
