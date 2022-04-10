@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [hibb@iis.sinica.edu.tw](mailto:hibb@iis.sinica.edu.tw)
+* Email: [hibb@u.northwestern.edu](mailto:hibb@u.northwestern.edu)
 
 ---
 
