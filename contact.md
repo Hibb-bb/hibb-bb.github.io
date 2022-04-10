@@ -10,3 +10,4 @@ is_contact: true
 ## Social
 
 [Twitter](https://twitter.com/hibb_bb)
+[LinkedIn](https://www.linkedin.com/in/dennis-y-wu-501b911a3/)
