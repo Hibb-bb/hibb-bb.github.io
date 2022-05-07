@@ -7,7 +7,8 @@ layout: default
 <img class="profile-picture" src="IMG_2092.jpeg">
 
 Hi! I am Dennis(Yu-Hsuan).<br>
-My research interests lie in machine learning, learning theory and natural language processing.
+I am a incoming MSCS student at the Northwestern University.
+My research interest lies in deep learning.
 
 ## Recent Updates
 
